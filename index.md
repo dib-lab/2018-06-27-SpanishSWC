@@ -1,7 +1,7 @@
 ---
 layout: workshop      # NO CAMBIAR ESTO 
 carpentry: "swc"    # qué tipo de Carpentry (ya sea "lc", "dc" o "swc")
-venue: "UC Davis"        # nombre breve del espacio donde se lleva adelante el taller, sin dirección (por ejemplo, "Universidad de Buenos Aires")
+venue: "UC Davis (SWC en español)"        # nombre breve del espacio donde se lleva adelante el taller, sin dirección (por ejemplo, "Universidad de Buenos Aires")
 address: "Gladys Valley Hall, Davis, CA 95616"      # dirección completa del espacio donde se realizará el taller (por ejemplo, "Aula 3, Av. Córdoba 1234, Buenos Aires, Argentina")
 country: "US"      # código ISO del país, dos letras en minúscula como por ejemplo "fr" (ver https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "COMPLETAR"     # código ISO del idioma, dos letras en minúscula como por ejemplo "fr" (ver https://en.wikipedia.org/wiki/ISO_639-1)
