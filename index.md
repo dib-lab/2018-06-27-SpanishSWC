@@ -5,7 +5,7 @@ venue: "UC Davis"        # nombre breve del espacio donde se lleva adelante el t
 address: "Gladys Valley Hall, Davis, CA 95616"      # dirección completa del espacio donde se realizará el taller (por ejemplo, "Aula 3, Av. Córdoba 1234, Buenos Aires, Argentina")
 country: "US"      # código ISO del país, dos letras en minúscula como por ejemplo "fr" (ver https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "COMPLETAR"     # código ISO del idioma, dos letras en minúscula como por ejemplo "fr" (ver https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "38.544907, -121.740517"       # latitud y longitud del espacio en formato decimal (por ejemplo, "41.7901128,-87.6007318" - usar http://www.latlong.net/)
+latlng: "38.532817, -121.763708"       # latitud y longitud del espacio en formato decimal (por ejemplo, "41.7901128,-87.6007318" - usar http://www.latlong.net/)
 humandate: "June 27-28"    # fechas del taller en formato legible (por ejemplo, "Feb 17-18, 2020")
 humantime: "9:00 am - 4:30 pm"    # hora del taller en formato legible (por ejemplo, "9:00 am - 4:30 pm")
 startdate: 2018-06-27      # fecha de inicio del taller en formato YYYY-MM-DD (por ejemplo, 2015-01-01)
