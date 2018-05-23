@@ -1,13 +1,13 @@
 ---
 layout: workshop      # NO CAMBIAR ESTO 
-carpentry: "COMPLETAR"    # qué tipo de Carpentry (ya sea "lc", "dc" o "swc")
-venue: "COMPLETAR"        # nombre breve del espacio donde se lleva adelante el taller, sin dirección (por ejemplo, "Universidad de Buenos Aires")
+carpentry: "swc"    # qué tipo de Carpentry (ya sea "lc", "dc" o "swc")
+venue: "UC Davis"        # nombre breve del espacio donde se lleva adelante el taller, sin dirección (por ejemplo, "Universidad de Buenos Aires")
 address: "COMPLETAR"      # dirección completa del espacio donde se realizará el taller (por ejemplo, "Aula 3, Av. Córdoba 1234, Buenos Aires, Argentina")
 country: "COMPLETAR"      # código ISO del país, dos letras en minúscula como por ejemplo "fr" (ver https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "COMPLETAR"     # código ISO del idioma, dos letras en minúscula como por ejemplo "fr" (ver https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "COMPLETAR"       # latitud y longitud del espacio en formato decimal (por ejemplo, "41.7901128,-87.6007318" - usar http://www.latlong.net/)
 humandate: "COMPLETAR"    # fechas del taller en formato legible (por ejemplo, "Feb 17-18, 2020")
-humantime: "COMPLETAR"    # hora del taller en formato legible (por ejemplo, "9:00 am - 4:30 pm")
+humantime: "9:00 am - 4:30 pm"    # hora del taller en formato legible (por ejemplo, "9:00 am - 4:30 pm")
 startdate: COMPLETAR      # fecha de inicio del taller en formato YYYY-MM-DD (por ejemplo, 2015-01-01)
 enddate: COMPLETAR        # fecha de finalización del taller en formato YYYY-MM-DD, por ejemplo 2015-01-02
 instructor: ["COMPLETAR"] # lista de nombres de las instructoras separados por comas y entre corchetes, como ["Hedy Lamarr", "Ada Lovelace", "Madame Curie"]
