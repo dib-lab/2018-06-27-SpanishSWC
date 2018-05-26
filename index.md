@@ -272,7 +272,7 @@ También es requerido que respeten el
   Library Carpentry
   {% endif %}
   ,
-  necesitarás acceso a los programas descritos abajo.
+  necesitarás acceso a algunos de los programas descritos abajo.
   Además, necesitarás un navegador actualizado.
 </p>
 <p>
