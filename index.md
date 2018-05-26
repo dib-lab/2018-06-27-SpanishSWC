@@ -43,6 +43,7 @@ eventbrite:           # optional: clave alfanumérica de registro en Eventbrite,
 </iframe>
 {% endif %}
 
+<h4>Registrarse aquí: <a href="https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SWC_Spanish_Workshop">https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SWC_Spanish_Workshop</a></h4>
 {% comment %}
 
 <h4>Esta es la plantilla de taller. Elimina éstas líneas y utilíza la plantilla para personalizar tu propio sitio web. Si estás desarrollando un taller auto-gestionado o aún no hiciste una solicitud de pedido de taller, por favor completa este <a href="{{site.amy_site}}/submit">formulario</a> para notificarnos y que nuestra administradora pueda contactarte si necesitamos información adicional.</h4>
