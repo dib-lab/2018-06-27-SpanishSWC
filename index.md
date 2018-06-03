@@ -495,6 +495,9 @@ escape, seguido por <code>:q!</code>(colon, olon, lower-case 'q',
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
 
+
+{% comment %}
+
 <div id="python"> {% comment %} Comienzo de la sección de 'Python'. Eliminar el tercer párrafo si el taller enseñará Python usando algo diferente a **Jupyter notebook**.
            Detalles en https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility (en inglés){% endcomment %}
   <h3>Python</h3>
@@ -584,6 +587,9 @@ escape, seguido por <code>:q!</code>(colon, olon, lower-case 'q',
   </p>
 {% endcomment %}
 </div> {% comment %} Fin de la sección 'Python'. {% endcomment %}
+
+
+{% endcomment %}
 
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
